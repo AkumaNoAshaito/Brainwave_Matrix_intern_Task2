@@ -68,7 +68,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/inventory-management-system.git
+git clone https://github.com/AkumaNoAshaito/Brainwave_Matrix_intern_Task2.git
 cd inventory-management-system
 Set up the MySQL database:
 
